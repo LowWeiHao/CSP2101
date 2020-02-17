@@ -1,0 +1,43 @@
+{
+
+"add a shebang":{
+    "prefix":"shebang",
+    "body":"#!/bin/bash",
+    "description": "bash"
+},
+
+"case":{
+    "prefix": "condition",
+    "body": [
+        "case in",
+
+        "esac",
+    ],
+    "description": "case condition"
+},
+
+"input request":{
+    "prefix": "input",
+    "body": "read -p ''",
+    "description": "seek input"
+},
+
+"read file":{
+    "prefix": "read",
+    "body": "cat >",
+    "description": "read a file"
+},
+
+"black":{
+    "prefix": "black",
+    "body": "\\033[30m",
+    "description": "black colour"
+},
+
+"red":{
+    "prefix": "red",
+    "body": "\\033[31m",
+    "description": "red colour"
+}
+
+}

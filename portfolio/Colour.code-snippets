@@ -1,0 +1,62 @@
+{
+    "black":{
+        "prefix": "black",
+        "body": "\\033[30m",
+        "description": "black colour"
+    },
+    
+    "red":{
+        "prefix": "red",
+        "body": "\\033[31m",
+        "description": "red colour"
+    },
+    
+    "green":{
+        "prefix": "green",
+        "body": "\\033[32m",
+        "description": "green colour"
+    },
+    
+    "brown":{
+        "prefix": "brown",
+        "body": "\\033[33m",
+        "description": "brown colour"
+    },
+    
+    "blue":{
+        "prefix": "blue",
+        "body": "\\033[34m",
+        "description": "blue colour"
+    },
+    
+    "purple":{
+        "prefix": "purple",
+        "body": "\\033[35m",
+        "description": "purple colour"
+    },
+    
+    "cyan":{
+        "prefix": "cyan",
+        "body": "\\033[36m",
+        "description": "cyan colour"
+    },
+    
+    "grey":{
+        "prefix": "grey",
+        "body": "\\033[37m",
+        "description": "grey colour"
+    },
+
+    "yellow":{
+        "prefix": "yellow",
+        "body": "\\033[1;33m",
+        "description": "yellow colour"
+    },
+
+    "nocolour":{
+        "prefix":"clear",
+        "body": "\\033[0m",
+        "description": "no colour"
+    },
+
+}

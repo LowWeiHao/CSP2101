@@ -1,0 +1,22 @@
+     \033[31mERROR:\033[0m $1
+this is the start of the script
+Thank you!
+Thank you!
+     \033[31mERROR:\033[0m $1
+    Right!
+Thank you!
+     \033[31mERROR:\033[0m $1
+    Correct!
+    The area for a triangle with base: $base and height: $height is: $(( $base * $height / 2 ))
+    ${green}1. calculate triangle${clear}
+            this is the start of the script
+            Thank you!
+            Thank you! ;;
+            Thank you! ;;
+            ERROR! invalid option. 
+            this is the start of the script
+            Thank you!
+            Thank you! ;;
+            Thank you! ;;
+            ERROR! invalid option. 
+    The area for a triangle with base: $base and height: $height area is: $area
